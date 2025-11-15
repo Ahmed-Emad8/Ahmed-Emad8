@@ -21,7 +21,7 @@ I’m Ahmed Emad, a Software Engineer, Cyber Security Engineer, and Backend Deve
 ---
 [![](https://visitcount.itsvg.in/api?id=Ahmed-Emad8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Ahmed-Emad8/Ahmed-Emad8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
